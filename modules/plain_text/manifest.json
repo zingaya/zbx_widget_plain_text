@@ -5,8 +5,9 @@
     "name": "Plain text",
     "namespace": "PlainText",
     "version": "1.0",
-    "author": "Leonardo Ariel Savoini",
+    "author": "Leonardo Savoini",
     "description": "Just a simple widget to put some text on it.",
+    "URL": "https://github.com/zingaya/zbx_widget_plain_text",
     "actions": {
         "widget.plain_text.view": {
             "class": "WidgetView"
